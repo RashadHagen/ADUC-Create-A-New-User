@@ -39,8 +39,8 @@ This project goes over how to create a new user using Active Directory Users and
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/5h5BPUD.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/jRt0dp1.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -53,8 +53,8 @@ This project goes over how to create a new user using Active Directory Users and
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/XaRpW74.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/PKu9epL.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@ This project goes over how to create a new user using Active Directory Users and
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The organizational unit OR folder within the domain controller you want to add the new user (ex: Consultants folder).
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/88o8QOH.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -76,8 +76,8 @@ This project goes over how to create a new user using Active Directory Users and
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/YNfJgtu.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/EOEVYKw.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -88,23 +88,29 @@ This project goes over how to create a new user using Active Directory Users and
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: User.
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/EIBzJZQ.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
-  </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The new user’s information.
-    <br/>
-    
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
-  <br /><br /><br /><br />
+ <div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The new user’s information.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/T5bN4N1.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/jdL0bQ4.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
 
 
   </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (bottom).
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/89p1Cg4.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -112,7 +118,15 @@ This project goes over how to create a new user using Active Directory Users and
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: A password & Select: Password options / Account is disabled.
     <br/>
     
-  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <img src="https://imgur.com/JJwjAhd.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (bottom).
+    <br/>
+    
+  <img src="https://imgur.com/89p1Cg4.png" height="50%" width="50%"/>  
   <br /><br /><br /><br />
 
 
@@ -122,8 +136,8 @@ This project goes over how to create a new user using Active Directory Users and
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/CScnlgw.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/g9kQ0vC.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
