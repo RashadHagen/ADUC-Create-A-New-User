@@ -33,4 +33,98 @@ This project goes over how to create a new user using Active Directory Users and
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click (OR) Double-Click: The Domain.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The organizational unit OR folder within the domain controller you want to add the new user (ex: Consultants folder).
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Hover your mouse over: New.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: User.
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The new user’s information.
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (bottom).
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  </div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: A password & Select: Password options / Account is disabled.
+    <br/>
+    
+  <img src="https://imgur.com/pxoDAGT.png" height="50%" width="50%"/>  
+  <br /><br /><br /><br />
+
+
+  <div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Finish (bottom).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/iTsIabf.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/rKZuena.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
